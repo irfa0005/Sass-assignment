@@ -1,0 +1,5 @@
+@mixin colcontrol($b,$g,$s){
+    flex-basis: $b;
+    flex-grow: $g;
+    flex-shrink: $s;
+}
